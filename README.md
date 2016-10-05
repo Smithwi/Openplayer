@@ -5,7 +5,6 @@ For using simple music player.
 It based on OpenAL32.dll created by Creative Labs Sharesoftware.
 
 
-c make..
 
 
 
