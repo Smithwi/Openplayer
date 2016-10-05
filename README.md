@@ -21,6 +21,5 @@ Please Note
 ===========
 
  Often, complaints of no sound, crashing, and missing devices can be solved by making 
-sure the correct backends are being used. CMake's output will identify which 
-backends were enabled. 
+sure the correct backends are being used.
 
